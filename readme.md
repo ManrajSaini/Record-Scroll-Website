@@ -29,5 +29,7 @@
 
 Executing the script initiates the automated scrolling and recording process.
 
-![Video](output.mp4)
+
+
+https://github.com/ManrajSaini/Record-Scroll-Website/assets/86542773/de597d7b-d3a7-4bf9-b892-fc269e3d3e11
 
