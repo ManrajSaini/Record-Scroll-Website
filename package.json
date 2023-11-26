@@ -1,0 +1,16 @@
+{
+  "name": "record_interactly",
+  "version": "1.0.0",
+  "description": "scroll and record with puppeteer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Manraj Singh",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.5.2",
+    "puppeteer-screen-recorder": "^2.1.2"
+  }
+}
